@@ -1,0 +1,15 @@
+﻿#cart {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+#cart-items {
+    list-style-type: none;
+    padding: 0;
+}
+
+.cart-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
